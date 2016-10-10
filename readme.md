@@ -1,8 +1,14 @@
----
+##重要更新
+
+本课程的所有示例代码已经基于最新的 **Swift3** 版本进行了升级。更新后的示例代码请参见项目： [**Play with Swift 3**](https://github.com/liuyubobobo/Play-with-Swift-3)
+
+https://github.com/liuyubobobo/Play-with-Swift-3
 
 对swift感兴趣的同学，欢迎加我的个人微信：**liuyubobobo**（头像和github一致），一起加入swift微信群讨论：）请注明：**swift交流**
 
---- 
+**以下内容为原课程swift2代码，已停止更新。**
+
+---
 
 ##Play with Swift 2 - 玩儿转 Swift 2
 
